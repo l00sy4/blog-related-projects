@@ -1,0 +1,14 @@
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\bin\Debug\net8.0\SharpSSP.exe
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\bin\Debug\net8.0\SharpSSP.deps.json
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\bin\Debug\net8.0\SharpSSP.runtimeconfig.json
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\bin\Debug\net8.0\SharpSSP.dll
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\bin\Debug\net8.0\SharpSSP.pdb
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\obj\Debug\net8.0\SharpSSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\obj\Debug\net8.0\SharpSSP.AssemblyInfoInputs.cache
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\obj\Debug\net8.0\SharpSSP.AssemblyInfo.cs
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\obj\Debug\net8.0\SharpSSP.csproj.CoreCompileInputs.cache
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\obj\Debug\net8.0\SharpSSP.dll
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\obj\Debug\net8.0\refint\SharpSSP.dll
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\obj\Debug\net8.0\SharpSSP.pdb
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\obj\Debug\net8.0\SharpSSP.genruntimeconfig.cache
+C:\Users\ANDREI\source\repos\SharpSSP\SharpSSP\obj\Debug\net8.0\ref\SharpSSP.dll
