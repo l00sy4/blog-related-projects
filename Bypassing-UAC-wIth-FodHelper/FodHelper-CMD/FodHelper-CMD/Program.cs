@@ -12,7 +12,7 @@ class Program
             return;
         }
 
-        string cmd = args[0];
+        string cmd = string.Join(" ", args);
         string payload = $"{cmd}";
         Redirect(payload);
 
