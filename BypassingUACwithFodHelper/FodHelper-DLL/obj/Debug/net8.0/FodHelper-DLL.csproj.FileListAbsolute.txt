@@ -1,0 +1,14 @@
+C:\Users\ANDREI\source\repos\FodHelper-DLL\bin\Debug\net8.0\FodHelper-DLL.exe
+C:\Users\ANDREI\source\repos\FodHelper-DLL\bin\Debug\net8.0\FodHelper-DLL.deps.json
+C:\Users\ANDREI\source\repos\FodHelper-DLL\bin\Debug\net8.0\FodHelper-DLL.runtimeconfig.json
+C:\Users\ANDREI\source\repos\FodHelper-DLL\bin\Debug\net8.0\FodHelper-DLL.dll
+C:\Users\ANDREI\source\repos\FodHelper-DLL\bin\Debug\net8.0\FodHelper-DLL.pdb
+C:\Users\ANDREI\source\repos\FodHelper-DLL\obj\Debug\net8.0\FodHelper-DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREI\source\repos\FodHelper-DLL\obj\Debug\net8.0\FodHelper-DLL.AssemblyInfoInputs.cache
+C:\Users\ANDREI\source\repos\FodHelper-DLL\obj\Debug\net8.0\FodHelper-DLL.AssemblyInfo.cs
+C:\Users\ANDREI\source\repos\FodHelper-DLL\obj\Debug\net8.0\FodHelper-DLL.csproj.CoreCompileInputs.cache
+C:\Users\ANDREI\source\repos\FodHelper-DLL\obj\Debug\net8.0\FodHelper-DLL.dll
+C:\Users\ANDREI\source\repos\FodHelper-DLL\obj\Debug\net8.0\refint\FodHelper-DLL.dll
+C:\Users\ANDREI\source\repos\FodHelper-DLL\obj\Debug\net8.0\FodHelper-DLL.pdb
+C:\Users\ANDREI\source\repos\FodHelper-DLL\obj\Debug\net8.0\FodHelper-DLL.genruntimeconfig.cache
+C:\Users\ANDREI\source\repos\FodHelper-DLL\obj\Debug\net8.0\ref\FodHelper-DLL.dll
